@@ -2,12 +2,10 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Handwritten Digit Recognition Using PyTorch</title>
-</head>
+
 <body>
 
-<h1>Handwritten Digit Recognition Using PyTorch</h1>
+
 
 <p>GitHub repository about handwritten digit recognition with Google Colab and PyTorch.</p>
 
